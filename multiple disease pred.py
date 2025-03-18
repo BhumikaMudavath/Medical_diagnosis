@@ -12,11 +12,11 @@ from streamlit_option_menu import option_menu
 
 # loading the saved models
 
-diabetes_model = pickle.load(open("C:/Users/MUDAVATH BHUMIKA/OneDrive/Desktop/project/trained_model.sav",'rb'))
+diabetes_model = pickle.load(open("trained_model.sav",'rb'))
 
-heart_disease_model = pickle.load(open("C:/Users/MUDAVATH BHUMIKA/OneDrive/Desktop/project/heart_disease_model.sav",'rb'))
+heart_disease_model = pickle.load(open("heart_disease_model.sav",'rb'))
 
-lungs_cancer_model = pickle.load(open("C:/Users/MUDAVATH BHUMIKA/OneDrive/Desktop/project/lungs_disease_model.sav",'rb'))
+
 
 
 # Adding Background Image
