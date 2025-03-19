@@ -11,4 +11,7 @@ This project is a medical diagnosis web application built using Streamlit. It us
 -  Streamlit  
 -  Scikit-learn  
 -  Pickle (for model serialization)  
- 
+## deployment
+The app is deployed on Streamlit Cloud.  
+[Access the app here](https://medicaldiagnosis-app.streamlit.app/).  
+
